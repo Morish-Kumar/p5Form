@@ -73,6 +73,7 @@ const AddUser = (props) => {
           />
           <Button type="submit">Add User</Button>
         </form>
+          <Button type= "cancel">Cancel</Button>
       </Card>
     </Fragment>
     // </Wrapper>
